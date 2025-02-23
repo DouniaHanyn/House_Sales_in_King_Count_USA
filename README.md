@@ -1,5 +1,8 @@
 # Project: House_Sales_in_King_Count_USA
 
+🚀*This project is part of the **Data Analysis with Python** course offered by Coursera, in partnership with IBM. 
+Provides hands-on experience in data analysis techniques using Python, covering libraries like Pandas, Matplotlib, and Sklearn, and includes practical exercises to apply these skills to real-world datasets.*
+
 ## 📁 Dataset Source  
 - **File Name:** housing.csv  
 - **Source:** https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
